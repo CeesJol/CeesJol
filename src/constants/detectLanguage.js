@@ -4,7 +4,7 @@ export const SECOND_LANGAUGE = "nl";
 const detectLanguage = () => {
   // Find user language
   if (typeof navigator === "undefined" || !navigator) return DEFAULT_LANGUAGE;
-  var userLang = navigator.language || navigator.userLanguage;
+  const userLang = navigator.language || navigator.userLanguage;
   if (!userLang) return DEFAULT_LANGUAGE;
 
   // Return proper language
