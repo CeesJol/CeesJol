@@ -1,10 +1,18 @@
+/**
+ * Calculate how many years and weeks a person has spent in their life
+ * Used to draw the red cubes on the figure
+ */
 export const getYearsAndWeeksPassed = (date) => {
   var birthday = new Date(date);
   var currentDate = new Date();
 
   var res = currentDate - birthday; // Subtract birthday from current date
-  var weeks = ((res / 3600 / 24 / 1000) % 365) / 7; // Convert to weeks (ignore years)
-  var years = res / 3600 / 24 / 1000 / 365; // Convert to years
+  var daysTotal = res / 1000 / 3600 / 24;
+  var weeks = (daysTotal % 365.25) / 7;
+  var years = daysTotal / 365.25;
+
+  // Remove one week, you haven't spent this week yet
+  weeks = weeks - 1;
 
   // Add one year, this will be (partially) filled with weeks
   years = years + 1;
