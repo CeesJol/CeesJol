@@ -54,6 +54,7 @@ a {
 
     &:hover {
       background-color: darken($primary-color, 5%);
+      border: 1px solid darken($primary-color, 5%);
     }
   }
 
