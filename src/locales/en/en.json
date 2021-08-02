@@ -1,95 +1,92 @@
 {
-	"language-menu": {
-		"title": "Language Menu"
-	},
-	"splash": {
-		"title": "Master Student Computer Science",
-		"subtitle": "Web Developer"
-	},
-	"intro": {
-		"title": "Hi, I'm Cees",
-		"subtitle": "I am a master student Computer Science at Delft UT with a passion for learning and teaching. I am experienced in Web Development and UI/UX."
-	},
-	"portfolio": {
-		"title": "My Recent Work",
-		"subtitle": "Here is an overview of my most recent work in Web Development."
-	},
-	"cta": {
-		"title": "Contact me",
-		"subtitle": "If you are interested in working with me, feel free to send me an email.",
-		"email": "Email me"
-	},
-	"contact": {
-		"email": "Email",
-		"resume": {
-			"name": "Resume",
-			"link": "https://docs.google.com/document/d/1ejq0L8lExYWi2_YhpNJhekIOJI1AiTK-8FUkYLNc0FU/export?format=pdf"
-		}
-	},
-	"skills": {
-		"agileWith": "Agile with",
-		"familiarWith": "Familiar with",
-		"skills": [
-			{
-				"title": "Web Development skills",
-				"description": "I've learned these skills through personal projects and online courses/tutorials."
-			},
-			{
-				"title": "Other skills",
-				"description": "These are skills I've learned through my study or personal projects."
-			}
-		]
-	},
-	"projects": {
-		"features": "Notable Features",
-		"technologies": "Technologies Used",
-		"buttons": {
-			"visitSite": "Visit site",
-			"viewCode": "View code"
-		},
-		"problemDefinition": "Problem Definition",
-		"solution": "Solution",
-		"projects": [
-			{
-				"name": "Resume Builder",
-				"description": [
-					"Creating a resume is a process people struggle with. Formatting and writing relevant details properly is often found to be hard.",
-					"An online resume builder could help people by providing premade templates and giving tips on how to improve their resume as they write it."
-				],
-				"features": [
-					"Account registration, authentication, confirmation",
-					"User-friendly interface to create a resume",
-					"Premade templates",
-					"Resume tips based on current resume (in development)",
-					"PDF Export",
-					"Responsive website and dashboard"
-				],
-				"technologies": [
-					"Front-end: React, Next.js, Sass",
-					"Back-end: Serverless API routes",
-					"Database: FaunaDB, GraphQL",
-					"Authentication: JWT access tokens stored in cookies"
-				]
-			},
-			{
-				"name": "Proteus Introduction Site",
-				"description": [
-					"My rowing association, Proteus, has an introduction site for potential new members. It had to be updated to be more informative.",
-					"Created a responsive website with much content such as videos in a committee with other programmers and designers."
-				],
-				"technologies": ["Vue", "Nuxt.js", "Vuetify"]
-			}
-		]
-	},
-	"footer": {
-		"subtitle": [
-			"Made with ❤️ using ",
-			"View on "
-		]
-	},
-	"404": {
-		"title": "Page not found",
-		"subtitle": "Sorry 😔 we couldn’t find what you were looking for.",
-		"link": "Go home"
-	}
+  "language-menu": {
+    "title": "Language Menu"
+  },
+  "splash": {
+    "title": "Master Student Computer Science",
+    "subtitle": "Full Stack Developer"
+  },
+  "intro": {
+    "title": "Hi, I'm Cees",
+    "subtitle": "I am a master student Computer Science at Delft UT with a passion for learning and teaching. I am experienced in Web Development and UI/UX."
+  },
+  "portfolio": {
+    "title": "My Recent Work",
+    "subtitle": "Here is an overview of my most recent work in Full Stack Development."
+  },
+  "cta": {
+    "title": "Contact me",
+    "subtitle": "If you are interested in working with me, feel free to send me an email.",
+    "email": "Email me"
+  },
+  "contact": {
+    "email": "Email",
+    "resume": {
+      "name": "Resume",
+      "link": "https://docs.google.com/document/d/1ejq0L8lExYWi2_YhpNJhekIOJI1AiTK-8FUkYLNc0FU/export?format=pdf"
+    }
+  },
+  "skills": {
+    "agileWith": "Agile with",
+    "familiarWith": "Familiar with",
+    "skills": [
+      {
+        "title": "Full Stack Development skills",
+        "description": "I've learned these skills through personal projects and online courses/tutorials."
+      },
+      {
+        "title": "Other skills",
+        "description": "These are skills I've learned through my study or personal projects."
+      }
+    ]
+  },
+  "projects": {
+    "features": "Notable Features",
+    "technologies": "Technologies Used",
+    "buttons": {
+      "visitSite": "Visit site",
+      "viewCode": "View code"
+    },
+    "problemDefinition": "Problem Definition",
+    "solution": "Solution",
+    "projects": [
+      {
+        "name": "Resume Builder",
+        "description": [
+          "Creating a resume is a process people struggle with. Formatting and writing relevant details properly is often found to be hard.",
+          "An online resume builder could help people by providing premade templates and giving tips on how to improve their resume as they write it."
+        ],
+        "features": [
+          "Account registration, authentication, confirmation",
+          "User-friendly interface to create a resume",
+          "Premade templates",
+          "Resume tips based on current resume (in development)",
+          "PDF Export",
+          "Responsive web app and dashboard"
+        ],
+        "technologies": [
+          "Front-end: React, Next.js, Sass",
+          "Back-end: Serverless API routes",
+          "Database: FaunaDB, GraphQL",
+          "Authentication: JWT access tokens stored in cookies"
+        ]
+      },
+      {
+        "name": "Proteus Introduction Site",
+        "description": [
+          "My rowing association, Proteus, has an introduction site for potential new members. It had to be updated to be more informative.",
+          "Created a responsive web app with much content such as videos in a committee with other programmers and designers."
+        ],
+        "technologies": ["Vue", "Nuxt.js", "Vuetify"]
+      }
+    ]
+  },
+  "footer": {
+    "subtitle": ["Made with ❤️ using ", "View on "]
+  },
+  "404": {
+    "title": "Page not found",
+    "subtitle": "Sorry 😔 we couldn’t find what you were looking for.",
+    "link": "Go home"
+  }
 }

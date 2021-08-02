@@ -12,11 +12,11 @@ const Layout = ({ children }) => {
         <meta charSet="utf-8" />
         <meta
           name="description"
-          content="Master Student Computer Science and Web Developer, based in Delft, the Netherlands"
+          content="Master Student Computer Science and Full Stack Developer, based in Delft, the Netherlands"
         />
         <meta
           name="keywords"
-          content="Cees Jol, Computer Science, student, Delft, The Netherlands, Nederland, developer, web developer, React, Vue, HTML, JavaScript, LinkedIn, GitHub, Resume, CV"
+          content="Cees Jol, Computer Science, student, Master, MSc, MS, Delft, The Netherlands, Nederland, developer, full stack developer, web developer, React, Vue, JavaScript, LinkedIn, GitHub, Resume, CV"
         />
         <meta name="author" content="Cees Jol"></meta>
       </Helmet>
