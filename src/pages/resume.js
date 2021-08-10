@@ -11,7 +11,7 @@ const Resume = () => {
       <div className="content-container">
         <h1>Downloading resume...</h1>
         <p>
-          If it takes too long, click{" "}
+          If it takes longer than five seconds, click{" "}
           <a href={t("contact.resume.link")}>here</a>
         </p>
       </div>
