@@ -8,11 +8,11 @@
   },
   "intro": {
     "title": "Hallo, ik ben Cees",
-    "subtitle": "Ik ben een master student Computer Science aan de TU Delft met passie voor leren en lesgeven. Ik ben ervaren in Full stack development en UI/UX."
+    "subtitle": "Ik ben een master student Computer Science aan de TU Delft met passie voor leren en lesgeven. Ik ben ervaren in Full stack development."
   },
   "portfolio": {
     "title": "Mijn recente projecten",
-    "subtitle": "Hier is een overzicht van mijn meeste recente projecten in Full stack development."
+    "subtitle": "Hier is een overzicht van mijn meeste recente projecten in web development."
   },
   "cta": {
     "title": "Contact opnemen",
@@ -50,7 +50,26 @@
     },
     "problemDefinition": "Probleemstelling",
     "solution": "Oplossing",
+    "idea": "Idee",
     "projects": [
+      {
+        "name": "LiReddit",
+        "description": [
+          "Om veel frontend en backend technologieën tegelijk te leren, heb ik een tutorial van Ben Awad gevolgd, en het project uitgebreid met nieuwe features."
+        ],
+        "features": [
+          "Subreddits",
+          "Opmerkingen op posts",
+          "Sorteren op top of nieuw",
+          "Image upload door gebruikers"
+        ],
+        "technologies": [
+          "Front-end: React, Next.js, TypeScript",
+          "Back-end: Node.js, TypeORM, GraphQL, TypeGraphQL, Redis",
+          "Database: PostgreSQL",
+          "Containerization: Docker"
+        ]
+      },
       {
         "name": "Resume Builder",
         "description": [

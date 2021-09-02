@@ -1,8 +1,11 @@
 [
-	{
-		"src": "./projects/resume.png"
-	},
-	{
-		"src": "./projects/proteus.png"
-	}
+  {
+    "src": "./projects/lireddit.png"
+  },
+  {
+    "src": "./projects/resume.png"
+  },
+  {
+    "src": "./projects/proteus.png"
+  }
 ]

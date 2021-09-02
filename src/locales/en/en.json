@@ -8,11 +8,11 @@
   },
   "intro": {
     "title": "Hi, I'm Cees",
-    "subtitle": "I am a master student Computer Science at Delft UT with a passion for learning and teaching. I am experienced in Web Development and UI/UX."
+    "subtitle": "I am a master student Computer Science at Delft UT with a passion for learning and teaching. I am experienced in Full Stack Development."
   },
   "portfolio": {
     "title": "My Recent Work",
-    "subtitle": "Here is an overview of my most recent work in Full Stack Development."
+    "subtitle": "Here is an overview of my most recent work in web development."
   },
   "cta": {
     "title": "Contact me",
@@ -41,7 +41,7 @@
     ]
   },
   "projects": {
-    "features": "Notable Features",
+    "features": "Features",
     "technologies": "Technologies Used",
     "buttons": {
       "visitSite": "Visit site",
@@ -49,7 +49,26 @@
     },
     "problemDefinition": "Problem Definition",
     "solution": "Solution",
+    "idea": "Idea",
     "projects": [
+      {
+        "name": "LiReddit",
+        "description": [
+          "To learn many frontend and backend technologies at once, I followed a tutorial by Ben Awad and extended it with new features."
+        ],
+        "features": [
+          "Subreddits",
+          "Comments on posts",
+          "Sorting on top or new",
+          "User image upload"
+        ],
+        "technologies": [
+          "Front-end: React, Next.js, TypeScript",
+          "Back-end: Node.js, TypeORM, GraphQL, TypeGraphQL, Redis",
+          "Database: PostgreSQL",
+          "Containerization: Docker"
+        ]
+      },
       {
         "name": "Resume Builder",
         "description": [
@@ -60,7 +79,6 @@
           "Account registration, authentication, confirmation",
           "User-friendly interface to create a resume",
           "Premade templates",
-          "Resume tips based on current resume (in development)",
           "PDF Export",
           "Responsive web app and dashboard"
         ],
