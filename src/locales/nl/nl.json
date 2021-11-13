@@ -53,24 +53,6 @@
     "idea": "Idee",
     "projects": [
       {
-        "name": "LiReddit",
-        "description": [
-          "Om veel frontend en backend technologieën tegelijk te leren, heb ik een tutorial van Ben Awad gevolgd, en het project uitgebreid met nieuwe features."
-        ],
-        "features": [
-          "Subreddits",
-          "Opmerkingen op posts",
-          "Sorteren op top of nieuw",
-          "Image upload door gebruikers"
-        ],
-        "technologies": [
-          "Front-end: React, Next.js, TypeScript",
-          "Back-end: Node.js, TypeORM, GraphQL, TypeGraphQL, Redis",
-          "Database: PostgreSQL",
-          "Containerization: Docker"
-        ]
-      },
-      {
         "name": "Resume Builder",
         "description": [
           "Een cv schrijven is een lastig proces. Het opmaken van het cv en het schrijven van relevante details blijkt vaak moeilijk te zijn.",
@@ -98,6 +80,24 @@
           "In een commissie met andere programmeurs en ontwerpers een responsive web app met veel inhoud zoals videos gemaakt."
         ],
         "technologies": ["Vue", "Nuxt.js", "Vuetify"]
+      },
+      {
+        "name": "LiReddit",
+        "description": [
+          "Om veel frontend en backend technologieën tegelijk te leren, heb ik een tutorial van Ben Awad gevolgd, en het project uitgebreid met nieuwe features."
+        ],
+        "features": [
+          "Subreddits",
+          "Opmerkingen op posts",
+          "Sorteren op top of nieuw",
+          "Image upload door gebruikers"
+        ],
+        "technologies": [
+          "Front-end: React, Next.js, TypeScript",
+          "Back-end: Node.js, TypeORM, GraphQL, TypeGraphQL, Redis",
+          "Database: PostgreSQL",
+          "Containerization: Docker"
+        ]
       }
     ]
   },

@@ -52,24 +52,6 @@
     "idea": "Idea",
     "projects": [
       {
-        "name": "LiReddit",
-        "description": [
-          "To learn many frontend and backend technologies at once, I followed a tutorial by Ben Awad and extended it with new features."
-        ],
-        "features": [
-          "Subreddits",
-          "Comments on posts",
-          "Sorting on top or new",
-          "User image upload"
-        ],
-        "technologies": [
-          "Front-end: React, Next.js, TypeScript",
-          "Back-end: Node.js, TypeORM, GraphQL, TypeGraphQL, Redis",
-          "Database: PostgreSQL",
-          "Containerization: Docker"
-        ]
-      },
-      {
         "name": "Resume Builder",
         "description": [
           "Creating a resume is a process people struggle with. Formatting and writing relevant details properly is often found to be hard.",
@@ -96,6 +78,24 @@
           "Created a responsive web app with much content such as videos in a committee with other programmers and designers."
         ],
         "technologies": ["Vue", "Nuxt.js", "Vuetify"]
+      },
+      {
+        "name": "LiReddit",
+        "description": [
+          "To learn many frontend and backend technologies at once, I followed a tutorial by Ben Awad and extended it with new features."
+        ],
+        "features": [
+          "Subreddits",
+          "Comments on posts",
+          "Sorting on top or new",
+          "User image upload"
+        ],
+        "technologies": [
+          "Front-end: React, Next.js, TypeScript",
+          "Back-end: Node.js, TypeORM, GraphQL, TypeGraphQL, Redis",
+          "Database: PostgreSQL",
+          "Containerization: Docker"
+        ]
       }
     ]
   },

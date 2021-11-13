@@ -44,11 +44,13 @@ const Project = ({ project, img }) => {
         <div className="project__header">
           <h1>{t(project.name)}</h1>
           <div className="buttons-container">
-            <Button
-              href={project.link}
-              text={t("projects.buttons.visitSite")}
-              color="primary-color"
-            />
+            {project.link && (
+              <Button
+                href={project.link}
+                text={t("projects.buttons.visitSite")}
+                color="primary-color"
+              />
+            )}
             {project.sourceLink && (
               <Button
                 href={project.sourceLink}
@@ -59,7 +61,11 @@ const Project = ({ project, img }) => {
         </div>
         <div className="project__body">
           <div className="project__left">
-            <a href={project.link} target="_blank" rel="noreferrer">
+            <a
+              href={project.link || project.sourceLink}
+              target="_blank"
+              rel="noreferrer"
+            >
               <Img
                 className="project--image"
                 alt={t(project.name)}
