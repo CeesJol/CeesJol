@@ -98,6 +98,16 @@
           "Database: PostgreSQL",
           "Containerization: Docker"
         ]
+      },
+      {
+        "name": "Stack Overflow Survey Visualisatie",
+        "description": [
+          "In dit project heb ik samengewerkt met twee studiegenootjes om te visualiseren hoe factoren het salaris en de werktevredenheid van developers beïnvloeden. We visualiseerden data uit de Stack Overflow Developer Survey van 2020 voor het vak Data Visualization."
+        ],
+        "features": [
+          "Histogrammen en violin plots met overlay",
+          "Interactiviteit via meerdere filters"
+        ]
       }
     ]
   },

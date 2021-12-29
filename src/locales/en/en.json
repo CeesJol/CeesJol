@@ -96,6 +96,16 @@
           "Database: PostgreSQL",
           "Containerization: Docker"
         ]
+      },
+      {
+        "name": "Stack Overflow Survey Visualization",
+        "description": [
+          "In this project, I worked together with two classmates to visualize how certain factors impact developer prosperity. We visualized data from the Stack Overflow Developer Survey of 2020 for the course Data Visualization."
+        ],
+        "features": [
+          "Histograms and violin plots with overlay",
+          "Interactivity through multiple filters"
+        ]
       }
     ]
   },
