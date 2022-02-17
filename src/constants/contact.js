@@ -17,7 +17,7 @@ const CONTACT_INFO = [
   },
   {
     name: "GitHub",
-    link: "https://www.github.com/CeesJol/CeesJol",
+    link: "https://github.com/CeesJol/",
     icon: () => (
       <svg
         xmlns="http://www.w3.org/2000/svg"

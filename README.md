@@ -8,7 +8,7 @@ Interested in which projects I am working on and have worked on? Check out [my p
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/CeesJol/CeesJol">
+<a href="https://github.com/CeesJol/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CeesJol&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cees's GitHub Stats" />
 </a>
 

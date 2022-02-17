@@ -31,7 +31,7 @@ const Footer = () => {
               </a>
               . {t("footer.subtitle.1")}{" "}
               <a
-                href="https://github.com/CeesJol/CeesJol"
+                href="https://github.com/CeesJol/"
                 target="_blank"
                 rel="noreferrer"
               >
