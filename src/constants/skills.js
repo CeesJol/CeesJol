@@ -6,17 +6,15 @@ const SKILL_SECTIONS = [
       {
         title: "skills.agileWith",
         content: [
-          "HTML5",
-          "CSS3, SCSS",
-          "JavaScript, ES6",
-          "React",
-          "Vue",
+          "HTML5, CSS3, SCSS",
+          "JavaScript, TypeScript, ES6",
+          "React, Next.js, Vue",
           "Node.js",
         ],
       },
       {
         title: "skills.familiarWith",
-        content: ["Django", "508 Accessibility", "API Routes"],
+        content: ["Ruby on Rails", "Django", "508 Accessibility", "API Routes"],
       },
     ],
   },
