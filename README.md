@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/CeesJol/CeesJol/master/static/wave.gif" width="30px">
+# Hi there! 👋
 
 My name is Cees Jol and I am a Computer Science master student at Delft UT. I am experienced in full stack development. You can find me on [LinkedIn][3].
 
