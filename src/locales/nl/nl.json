@@ -76,8 +76,8 @@
       {
         "name": "Proteus Introductie Site",
         "description": [
-          "Mijn roeivereniging, Proteus, heeft een introductiesite voor potentiële nieuwe leden. Deze moest worden bijgewerkt om informatiever te zijn.",
-          "In een commissie met andere programmeurs en ontwerpers een responsive web app met veel inhoud zoals videos gemaakt."
+          "De introductiesite voor mijn roeivereniging moest worden bijgewerkt om informatiever en moderner te zijn.",
+          "We hebben een responsive web app gemaakt in een commissie van ontwerpers en ontwikkelaars, die heeft bijgedragen bij het binnenhalen van honderden nieuwe leden."
         ],
         "technologies": ["Vue", "Nuxt.js", "Vuetify"]
       },

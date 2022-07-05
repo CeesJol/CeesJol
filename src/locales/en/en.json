@@ -74,8 +74,8 @@
       {
         "name": "Proteus Introduction Site",
         "description": [
-          "My rowing association, Proteus, has an introduction site for potential new members. It had to be updated to be more informative.",
-          "Created a responsive web app with much content such as videos in a committee with other programmers and designers."
+          "The introduction site of my rowing association had to be updated to be more informative and modern.",
+          "Created a responsive web app in a committee of designers and developers, which helped to bring in hundreds of new members."
         ],
         "technologies": ["Vue", "Nuxt.js", "Vuetify"]
       },
