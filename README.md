@@ -1,10 +1,8 @@
 # Hi there! 👋
 
-My name is Cees Jol and I am a Computer Science master student at Delft UT. I am experienced in full stack development. You can find me on [LinkedIn][3].
+My name is Cees Jol and I am a Computer Science master student at Delft UT. I am experienced in full stack development.
 
-## 👨‍💻 Portfolio
-
-Interested in which projects I am working on and have worked on? Check out [my portfolio][1].
+[Portfolio][1] | [LinkedIn][2] | [Email me](mailto:info@ceesjol.nl)
 
 ## 📈 GitHub Stats
 
@@ -17,14 +15,7 @@ Interested in which projects I am working on and have worked on? Check out [my p
 Feel free to send me an email.  
 📧 [info@ceesjol.nl](mailto:info@ceesjol.nl)
 
-<!-- icons -->
-
-[3.2]: https://raw.githubusercontent.com/CeesJol/CeesJol/master/static/linkedin-3-16.png "LinkedIn icon without padding"
-
 <!-- links to social media accounts -->
 
 [1]: https://ceesjol.nl/
-[2]: https://github.com/CeesJol/
-[3]: https://www.linkedin.com/in/ceesjol/
-
-<!-- README inspired by https://github.com/MartinHeinz/MartinHeinz -->
+[2]: https://www.linkedin.com/in/ceesjol/
