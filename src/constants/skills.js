@@ -24,12 +24,11 @@ const SKILL_SECTIONS = [
     sections: [
       {
         title: "skills.agileWith",
-        content: ["CI/CD", "Git, Scrum, Agile, Kanban"],
+        content: ["Python", "CI/CD", "Git, Scrum, Agile, Kanban"],
       },
       {
         title: "skills.familiarWith",
         content: [
-          "Python",
           "Java, Maven",
           "Docker",
           "SQL, MySQL, PostgreSQL",

@@ -75,7 +75,7 @@
         "name": "Proteus Introduction Site",
         "description": [
           "The introduction site of my rowing association had to be updated to be more informative and modern.",
-          "Created a responsive web app in a committee of designers and developers, which helped to bring in hundreds of new members."
+          "Created a responsive web app in a committee of designers and developers, which helped to bring in 770 new members."
         ],
         "technologies": ["Vue", "Nuxt.js", "Vuetify"]
       },
@@ -100,7 +100,7 @@
       {
         "name": "Stack Overflow Survey Visualization",
         "description": [
-          "In this project, I worked together with two classmates to visualize how certain factors impact developer prosperity. We visualized data from the Stack Overflow Developer Survey of 2020 for the course Data Visualization."
+          "In this project, I worked together with two classmates to visualize how certain factors impact developer salary and satisfaction. We visualized data from the Stack Overflow Developer Survey of 2020 for the course Data Visualization."
         ],
         "features": [
           "Histograms and violin plots with overlay",

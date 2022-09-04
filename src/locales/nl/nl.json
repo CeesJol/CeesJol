@@ -62,7 +62,6 @@
           "Account registratie, authenticatie, e-mailbevestiging",
           "Gebruiksvriendelijke interface voor het maken van een cv",
           "Kant-en-klare sjabloons",
-          "Tips op basis van de huidige cv (in ontwikkeling)",
           "Exporteren naar PDF",
           "Responsive web app en dashboard"
         ],
@@ -77,7 +76,7 @@
         "name": "Proteus Introductie Site",
         "description": [
           "De introductiesite voor mijn roeivereniging moest worden bijgewerkt om informatiever en moderner te zijn.",
-          "We hebben een responsive web app gemaakt in een commissie van ontwerpers en ontwikkelaars, die heeft bijgedragen bij het binnenhalen van honderden nieuwe leden."
+          "We hebben een responsive web app gemaakt in een commissie van ontwerpers en ontwikkelaars, die heeft bijgedragen bij het binnenhalen van 770 nieuwe leden."
         ],
         "technologies": ["Vue", "Nuxt.js", "Vuetify"]
       },
@@ -102,7 +101,7 @@
       {
         "name": "Stack Overflow Survey Visualisatie",
         "description": [
-          "In dit project heb ik samengewerkt met twee studiegenootjes om te visualiseren hoe factoren het salaris en de werktevredenheid van developers beïnvloeden. We visualiseerden data uit de Stack Overflow Developer Survey van 2020 voor het vak Data Visualization."
+          "In dit project heb ik samengewerkt met twee studiegenootjes om te visualiseren welke factoren invloed hebben op het salaris en de werktevredenheid van developers. We hebben data van de Stack Overflow Developer Survey van 2020 gebruikt voor het vak Data Visualization."
         ],
         "features": [
           "Histogrammen en violin plots met overlay",
