@@ -12,10 +12,12 @@ My name is Cees Jol and I am a Computer Science MSc graduate at Delft UT. I am e
 </a>
 -->
 
+<!--
 ## ✏️ Contact me
 
 Feel free to send me an email.  
 📧 [info@ceesjol.nl](mailto:info@ceesjol.nl)
+-->
 
 <!-- links to social media accounts -->
 
