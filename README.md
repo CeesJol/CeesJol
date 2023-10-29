@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Cees Jol and I am a Computer Science MSc graduate at Delft UT. I am experienced in full stack development.
+Developer with experience in web development and data science. I enjoy the fast-paced environment of the tech industry and being part of high-functioning teams. I value good code quality.
 
 [Portfolio][1] | [LinkedIn][2] | [Email me](mailto:info@ceesjol.nl)
 
